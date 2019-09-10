@@ -35,7 +35,7 @@ Add any presentation material/reviews/code/etc. to shared Google slide deck (see
 | Date | Reading |
 |------|-------|
 | Week One | None (introduction) |
-| Week Two | [title](papers/Surface simplification using quadric error metrics 1997 Garland.pdf) |
+| Week Two | [title](papers/) |
 
 
 
