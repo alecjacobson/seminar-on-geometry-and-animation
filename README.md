@@ -1,2 +1,1 @@
-# seminar-on-geometry-and-animation
-course webpage
+CSC2521: Seminar in Geometry and Animation
