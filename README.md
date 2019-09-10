@@ -34,5 +34,7 @@ Add any presentation material/reviews/code/etc. to shared Google slide deck (see
 
 |------|-------|
 | Week One | Introduction |
-| Week Two | ["Surface simplification using quadric error metrics" [Garland & Heckbert 1997]](Surface simplification using quadric error metrics 1997 Garland)
+| Week Two | ["Surface simplification using quadric error metrics" [Garland & Heckbert 1997]](Surface simplification using quadric error metrics 1997 Garland) |
+
+
 
