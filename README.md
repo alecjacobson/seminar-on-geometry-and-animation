@@ -36,7 +36,7 @@ Add any presentation material/reviews/code/etc. to shared Google slide deck (see
 |------|-------|
 | Week One | None (introduction) |
 | Week Two | ["Surface simplification using quadric error metrics" [Garland & Heckbert 1997]](papers/garland1997.pdf) |
-| Coming soon... | "Marching cubes: A high resolution 3D surface construction algorithm" [Lorenson & Cline 1987] |
+| Week Three | ["Marching cubes: A high resolution 3D surface construction algorithm" [Lorenson & Cline 1987]](papers/lorenson-and-cline-1987.pdf) |
 | Coming soon... | "Implicit fairing of irregular meshes using diffusion and curvature flow" [Desbrun, Meyer, Schröder, Barr 1999] |
 | Coming soon... | "Least squares conformal maps for automatic texture atlas generation" [Lévy, Petitjean, Ray, Maillot 2002] |
 | Coming soon... | "As-rigid-as-possible shape manipulation" [Igarashi, Moscovich, Hughes 2005] |
