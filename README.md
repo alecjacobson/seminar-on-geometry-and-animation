@@ -26,6 +26,7 @@ Private Investigator.
   - **Industry R&D Expect:** Convince us (your industry bosses) that it's worth your time and money to implement this paper into our company's pipeline. Choose an appropriate company and product or application.
   - **Hacker:** Implement a small part of the paper or simplified (e.g. 2D instead of 3D) version of the paper. Prepare a demo of your work for the class.
   - **Private Investigator:** Find out background information on one of the paper authors. Where have they worked? What did they study? What previous projects might have led to working on this one? We encourage you to contact the authors, but remember to be courteous, polite and on topic. Write that you're in Prof. Jacobson's seminar and include a link to this page.
+  - **Ethicist:** You are an ethical impact assessor living 50 years after the paper. Bring us news about the world around you. What has been the impact (good or bad) of this paper on the economy, society, and/or the environment?
   - **Everyone, every week:** Come with a new title for the current paper and a missing result the paper could have included.
 
 Add any presentation material/reviews/code/etc. to shared Google slide deck (see [quercus course page](https://q.utoronto.ca/courses/111359))
