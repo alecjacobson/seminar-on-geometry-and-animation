@@ -40,6 +40,7 @@ Add any presentation material/reviews/code/etc. to shared Google slide deck (see
 | Week Three | ["Marching cubes: A high resolution 3D surface construction algorithm" [Lorenson & Cline 1987]](papers/lorenson-and-cline-1987.pdf) |
 | Week Four | ["Implicit fairing of irregular meshes using diffusion and curvature flow" [Desbrun, Meyer, Schröder, Barr 1999]](papers/desbrun1999.pdf) |
 | Week Five | ["Least squares conformal maps for automatic texture atlas generation" [Lévy, Petitjean, Ray, Maillot 2002]](papers/levy2002.pdf) |
+| Week Size | ["Biharmonic Distance" [Lipman, Rustamov, Funkhouser 2010]](papers/lipman2010.pdf) |
 | Coming soon... | "As-rigid-as-possible shape manipulation" [Igarashi, Moscovich, Hughes 2005] |
 | Coming soon... | "Geodesics in heat: A new approach to computing distance based on heat flow" [Crane, Weischedel, Wardetzky 2013] |
 | Coming soon... | "Discrete Elastic Rods" [Bergou et al. 2008]
