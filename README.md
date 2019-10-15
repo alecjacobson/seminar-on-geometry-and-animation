@@ -52,6 +52,7 @@ Add any presentation material/reviews/code/etc. to shared Google slide deck (see
 | Coming soon... | "Geometric Modeling with Conical Meshes and Developable Surfaces" [Liu et al. 2006]
 | Coming soon... | "Robust Global Registration" [Gelfand et al. 2005]
 | Coming soon... | "Point set surfaces" [Alexa et al. 2001]
+| Coming soon... | "Illustrating smooth surfaces" [Hertzmann and Zorin 2000]
 
 
 
