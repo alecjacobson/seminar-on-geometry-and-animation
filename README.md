@@ -42,7 +42,7 @@ Add any presentation material/reviews/code/etc. to shared Google slide deck (see
 | Week Five | ["Least squares conformal maps for automatic texture atlas generation" [Lévy, Petitjean, Ray, Maillot 2002]](papers/levy2002.pdf) |
 | Week Six| ["Biharmonic Distance" [Lipman, Rustamov, Funkhouser 2010]](papers/lipman2010.pdf) |
 | Week Seven | ["As-rigid-as-possible surface modeling" [Sorkine-Hornung and Alexa 2007]](papers/sorkine2007.pdf)
-| Week Eight | "Harmonic Coordinates" [Joshi et al. 2007]
+| Week Eight | ["Harmonic Coordinates" [Joshi et al. 2007]](papers/a71-joshi.pdf)
 | Coming soon... | "As-rigid-as-possible shape manipulation" [Igarashi, Moscovich, Hughes 2005] |
 | Coming soon... | "Geodesics in heat: A new approach to computing distance based on heat flow" [Crane, Weischedel, Wardetzky 2013] |
 | Coming soon... | "Discrete Elastic Rods" [Bergou et al. 2008]
