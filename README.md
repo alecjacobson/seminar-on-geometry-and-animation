@@ -43,9 +43,9 @@ Add any presentation material/reviews/code/etc. to shared Google slide deck (see
 | Week Six| ["Biharmonic Distance" [Lipman, Rustamov, Funkhouser 2010]](papers/lipman2010.pdf) |
 | Week Seven | ["As-rigid-as-possible surface modeling" [Sorkine-Hornung and Alexa 2007]](papers/sorkine2007.pdf)
 | Week Eight | ["Harmonic Coordinates" [Joshi et al. 2007]](papers/a71-joshi.pdf)
+| Week Nine | ["Discrete Elastic Rods" [Bergou et al. 2008]](papers/143-rods.pdf)
 | Coming soon... | "As-rigid-as-possible shape manipulation" [Igarashi, Moscovich, Hughes 2005] |
 | Coming soon... | "Geodesics in heat: A new approach to computing distance based on heat flow" [Crane, Weischedel, Wardetzky 2013] |
-| Coming soon... | "Discrete Elastic Rods" [Bergou et al. 2008]
 | Coming soon... | "Deformation transfer for triangle meshes" [Sumner et al. 2004]
 | Coming soon... | "Laplacian surface editing" [Sorkine-Hornung et al. 2004]
 | Coming soon... | "A concise and provably informative multi‐scale signature based on heat diffusion" [Sun et al. 2009]
