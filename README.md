@@ -45,11 +45,11 @@ Add any presentation material/reviews/code/etc. to shared Google slide deck (see
 | Week Eight | ["Harmonic Coordinates" [Joshi et al. 2007]](papers/a71-joshi.pdf)
 | Week Nine | ["Discrete Elastic Rods" [Bergou et al. 2008]](papers/143-rods.pdf)
 | Week Ten | ["Geometric Modeling with Conical Meshes and Developable Surfaces" [Liu et al. 2006]](papers/quadMesh_sig06.pdf)
+| Week Eleven | ["A concise and provably informative multi‐scale signature based on heat diffusion" [Sun et al. 2009]](papers/multi-scale-signature.pdf)
 | Coming soon... | "As-rigid-as-possible shape manipulation" [Igarashi, Moscovich, Hughes 2005] |
 | Coming soon... | "Geodesics in heat: A new approach to computing distance based on heat flow" [Crane, Weischedel, Wardetzky 2013] |
 | Coming soon... | "Deformation transfer for triangle meshes" [Sumner et al. 2004]
 | Coming soon... | "Laplacian surface editing" [Sorkine-Hornung et al. 2004]
-| Coming soon... | "A concise and provably informative multi‐scale signature based on heat diffusion" [Sun et al. 2009]
 | Coming soon... | "Robust Global Registration" [Gelfand et al. 2005]
 | Coming soon... | "Point set surfaces" [Alexa et al. 2001]
 | Coming soon... | "Illustrating smooth surfaces" [Hertzmann and Zorin 2000]
