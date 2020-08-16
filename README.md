@@ -1,7 +1,7 @@
 # CSC2521: Seminar in Geometry and Animation
 
 Instructed by [Alec Jacobson](http://www.cs.toronto.edu/~jacobson/)  
-Class meets Tuesdays at 3pm-5pm in BA B024
+Class meets Tuesdays at 3pm-5pm on ⚡ _Zoom_ ⚡
 
 This course will take a deep look at a broad collection of seminal papers in
 computer graphics, focusing on topics in geometry processing and computer
@@ -26,10 +26,10 @@ Private Investigator.
   - **Industry R&D Expect:** Convince us (your industry bosses) that it's worth your time and money to implement this paper into our company's pipeline. Choose an appropriate company and product or application.
   - **Hacker:** Implement a small part of the paper or simplified (e.g. 2D instead of 3D) version of the paper. Prepare a demo of your work for the class.
   - **Private Investigator:** Find out background information on one of the paper authors. Where have they worked? What did they study? What previous projects might have led to working on this one? We encourage you to contact the authors, but remember to be courteous, polite and on topic. Write that you're in Prof. Jacobson's seminar and include a link to this page.
-  - **Ethicist:** You are an ethical impact assessor living 50 years after the paper. Bring us news about the world around you. What has been the impact (good or bad) of this paper on the economy, society, and/or the environment?
+  - **Ethicist:** You are an ethical impact assessor from 2021. What has been the impact (good or bad) of this paper on the economy, society, and/or the environment?
   - **Everyone, every week:** Come with a new title for the current paper and a missing result the paper could have included.
 
-Add any presentation material/reviews/code/etc. to shared Google slide deck (see [quercus course page](https://q.utoronto.ca/courses/111359))
+Add any presentation material/reviews/code/etc. to shared Google slide deck (see [quercus course page](https://q.utoronto.ca/courses/177718/))
 
 ## Syllabus
 
@@ -37,23 +37,24 @@ Add any presentation material/reviews/code/etc. to shared Google slide deck (see
 |------|-------|
 | Week One | None (introduction) |
 | Week Two | ["Surface simplification using quadric error metrics" [Garland & Heckbert 1997]](papers/garland1997.pdf) |
-| Week Three | ["Marching cubes: A high resolution 3D surface construction algorithm" [Lorenson & Cline 1987]](papers/lorenson-and-cline-1987.pdf) |
-| Week Four | ["Implicit fairing of irregular meshes using diffusion and curvature flow" [Desbrun, Meyer, Schröder, Barr 1999]](papers/desbrun1999.pdf) |
-| Week Five | ["Least squares conformal maps for automatic texture atlas generation" [Lévy, Petitjean, Ray, Maillot 2002]](papers/levy2002.pdf) |
-| Week Six| ["Biharmonic Distance" [Lipman, Rustamov, Funkhouser 2010]](papers/lipman2010.pdf) |
-| Week Seven | ["As-rigid-as-possible surface modeling" [Sorkine-Hornung and Alexa 2007]](papers/sorkine2007.pdf)
-| Week Eight | ["Harmonic Coordinates" [Joshi et al. 2007]](papers/a71-joshi.pdf)
-| Week Nine | ["Discrete Elastic Rods" [Bergou et al. 2008]](papers/143-rods.pdf)
-| Week Ten | ["Geometric Modeling with Conical Meshes and Developable Surfaces" [Liu et al. 2006]](papers/quadMesh_sig06.pdf)
-| Week Eleven | ["A concise and provably informative multi‐scale signature based on heat diffusion" [Sun et al. 2009]](papers/multi-scale-signature.pdf)
-| Week Twelve | ["Interactive Control of Avatars Animated with Human Motion Data" [Lee et al. 2002]](papers/avatar.pdf)
 | Coming soon... | "As-rigid-as-possible shape manipulation" [Igarashi, Moscovich, Hughes 2005] |
-| Coming soon... | "Geodesics in heat: A new approach to computing distance based on heat flow" [Crane, Weischedel, Wardetzky 2013] |
 | Coming soon... | "Deformation transfer for triangle meshes" [Sumner et al. 2004]
-| Coming soon... | "Laplacian surface editing" [Sorkine-Hornung et al. 2004]
-| Coming soon... | "Robust Global Registration" [Gelfand et al. 2005]
-| Coming soon... | "Point set surfaces" [Alexa et al. 2001]
+| Coming soon... | "Geodesics in heat: A new approach to computing distance based on heat flow" [Crane, Weischedel, Wardetzky 2013] |
 | Coming soon... | "Illustrating smooth surfaces" [Hertzmann and Zorin 2000]
+| Coming soon... | "Laplacian surface editing" [Sorkine-Hornung et al. 2004]
+| Coming soon... | "Point set surfaces" [Alexa et al. 2001]
+| Coming soon... | "Robust Global Registration" [Gelfand et al. 2005]
+| Coming soon... | ["A concise and provably informative multi‐scale signature based on heat diffusion" [Sun et al. 2009]](papers/multi-scale-signature.pdf)
+| Coming soon... | ["As-rigid-as-possible surface modeling" [Sorkine-Hornung and Alexa 2007]](papers/sorkine2007.pdf)
+| Coming soon... | ["Geometric Modeling with Conical Meshes and Developable Surfaces" [Liu et al. 2006]](papers/quadMesh_sig06.pdf)
+| Coming soon... | ["Harmonic Coordinates" [Joshi et al. 2007]](papers/a71-joshi.pdf)
+| Coming soon... | ["Implicit fairing of irregular meshes using diffusion and curvature flow" [Desbrun, Meyer, Schröder, Barr 1999]](papers/desbrun1999.pdf) |
+| Coming soon... | ["Interactive Control of Avatars Animated with Human Motion Data" [Lee et al. 2002]](papers/avatar.pdf)
+| Coming soon... | ["Least squares conformal maps for automatic texture atlas generation" [Lévy, Petitjean, Ray, Maillot 2002]](papers/levy2002.pdf) |
+| Coming soon... | ["Marching cubes: A high resolution 3D surface construction algorithm" [Lorenson & Cline 1987]](papers/lorenson-and-cline-1987.pdf) |
+| Coming soon...| ["Biharmonic Distance" [Lipman, Rustamov, Funkhouser 2010]](papers/lipman2010.pdf) |
+| Coming soon...| ["Discrete Elastic Rods" [Bergou et al. 2008]](papers/143-rods.pdf)
+
 
 
 
