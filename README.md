@@ -39,7 +39,7 @@ Add any presentation material/reviews/code/etc. to shared Google slide deck (see
 | Week Two | ["Surface simplification using quadric error metrics" [Garland & Heckbert 1997]](papers/garland1997.pdf) |
 | Week Three | ["Marching cubes: A high resolution 3D surface construction algorithm" [Lorenson & Cline 1987]](papers/lorenson-and-cline-1987.pdf)
 | Week four | ["Implicit fairing of irregular meshes using diffusion and curvature flow" [Desbrun, Meyer, Schröder, Barr 1999]](papers/desbrun1999.pdf) |
-| Week five | "Laplacian surface editing" [Sorkine-Hornung et al. 2004]
+| Week five | ["Laplacian surface editing" [Sorkine-Hornung et al. 2004]](papers/sorkine2004.pdf)
 | Coming soon... | "As-rigid-as-possible shape manipulation" [Igarashi, Moscovich, Hughes 2005] |
 | Coming soon... | "Deformation transfer for triangle meshes" [Sumner et al. 2004]
 | Coming soon... | "Geodesics in heat: A new approach to computing distance based on heat flow" [Crane, Weischedel, Wardetzky 2013] |
