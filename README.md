@@ -37,13 +37,13 @@ Add any presentation material/reviews/code/etc. to shared Google slide deck (see
 |------|-------|
 | Week One | None (introduction) |
 | Week Two | ["Surface simplification using quadric error metrics" [Garland & Heckbert 1997]](papers/garland1997.pdf) |
-| Week Three | ["Marching cubes: A high resolution 3D surface construction algorithm" [Lorenson & Cline 1987]](papers/lorenson-and-cline-1987.pdf)
-| Week four | ["Implicit fairing of irregular meshes using diffusion and curvature flow" [Desbrun, Meyer, Schröder, Barr 1999]](papers/desbrun1999.pdf) |
-| Week five | ["Laplacian surface editing" [Sorkine-Hornung et al. 2004]](papers/sorkine2004.pdf)
-| Week six | ["As-rigid-as-possible surface modeling" [Sorkine-Hornung and Alexa 2007]](papers/sorkine2007.pdf)
+| Week Three | ["Marching cubes: A high resolution 3D surface construction algorithm" [Lorenson & Cline 1987]](papers/lorenson-and-cline-1987.pdf) |
+| Week Four | ["Implicit fairing of irregular meshes using diffusion and curvature flow" [Desbrun, Meyer, Schröder, Barr 1999]](papers/desbrun1999.pdf) |
+| Week Five | ["Laplacian surface editing" [Sorkine-Hornung et al. 2004]](papers/sorkine2004.pdf) |
+| Week Six | ["As-rigid-as-possible surface modeling" [Sorkine-Hornung and Alexa 2007]](papers/sorkine2007.pdf) |
+| Week Seven | ["Geodesics in heat: A new approach to computing distance based on heat flow" [Crane, Weischedel, Wardetzky 2013]](papers/crane2017.pdf) |
 | Coming soon... | "As-rigid-as-possible shape manipulation" [Igarashi, Moscovich, Hughes 2005] |
 | Coming soon... | "Deformation transfer for triangle meshes" [Sumner et al. 2004]
-| Coming soon... | "Geodesics in heat: A new approach to computing distance based on heat flow" [Crane, Weischedel, Wardetzky 2013] |
 | Coming soon... | "Illustrating smooth surfaces" [Hertzmann and Zorin 2000]
 | Coming soon... | "Point set surfaces" [Alexa et al. 2001]
 | Coming soon... | "Robust Global Registration" [Gelfand et al. 2005]
