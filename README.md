@@ -45,6 +45,7 @@ Add any presentation material/reviews/code/etc. to shared Google slide deck (see
 | Week Eight | ["Harmonic Coordinates for Character Articulation" [Joshi et al. 2007]](papers/a71-joshi.pdf) |
 | Week Nine | ["Regularized Kelvinlets: Sculpting Brushes based on Fundamental Solutions of Elasticity" [de Goes et al. 2017]](papers/regularized_kelvinlets.pdf) |
 | Week Ten | ["Spectral Conformal Parameterization" [Mullen et al. 2008]](papers/MTAD08.pdf) |
+| Week Eleven | ["Discrete Elastic Rods" [Bergou et al. 2008]](papers/143-rods.pdf)
 | Coming soon... | "As-rigid-as-possible shape manipulation" [Igarashi, Moscovich, Hughes 2005] |
 | Coming soon... | "Deformation transfer for triangle meshes" [Sumner et al. 2004]
 | Coming soon... | "Illustrating smooth surfaces" [Hertzmann and Zorin 2000]
@@ -56,7 +57,6 @@ Add any presentation material/reviews/code/etc. to shared Google slide deck (see
 | Coming soon... | ["Least squares conformal maps for automatic texture atlas generation" [Lévy, Petitjean, Ray, Maillot 2002]](papers/levy2002.pdf) |
 | Coming soon... | ["Marching cubes: A high resolution 3D surface construction algorithm" [Lorenson & Cline 1987]](papers/lorenson-and-cline-1987.pdf) |
 | Coming soon...| ["Biharmonic Distance" [Lipman, Rustamov, Funkhouser 2010]](papers/lipman2010.pdf) |
-| Coming soon...| ["Discrete Elastic Rods" [Bergou et al. 2008]](papers/143-rods.pdf)
 
 
 
