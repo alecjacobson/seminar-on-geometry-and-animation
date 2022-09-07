@@ -1,7 +1,7 @@
 # CSC2521: Seminar in Geometry and Animation
 
 Instructed by [Alec Jacobson](http://www.cs.toronto.edu/~jacobson/)  
-Class meets Tuesdays at 3pm-5pm on ⚡ _Zoom_ ⚡
+Class meets Wednesdays at 3pm-5pm in ES 1042.
 
 This course will take a deep look at a broad collection of seminal papers in
 computer graphics, focusing on topics in geometry processing and computer
