@@ -29,7 +29,7 @@ Private Investigator.
   - **Ethicist:** You are an ethical impact assessor from 2021. What has been the impact (good or bad) of this paper on the economy, society, and/or the environment?
   - **Everyone, every week:** Come with a new title for the current paper and a missing result the paper could have included.
 
-Add any presentation material/reviews/code/etc. to shared Google slide deck (see [quercus course page](https://q.utoronto.ca/courses/177718/))
+Add any presentation material/reviews/code/etc. to shared Google slide deck (see [quercus course page](https://q.utoronto.ca/courses/283701))
 
 ## Syllabus
 
