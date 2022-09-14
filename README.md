@@ -37,27 +37,6 @@ Add any presentation material/reviews/code/etc. to shared Google slide deck (see
 |------|-------|
 | Week One | None (introduction) |
 | Week Two | ["Surface simplification using quadric error metrics" [Garland & Heckbert 1997]](papers/garland1997.pdf) |
-| Week Three | ["Marching cubes: A high resolution 3D surface construction algorithm" [Lorenson & Cline 1987]](papers/lorenson-and-cline-1987.pdf) |
-| Week Four | ["Implicit fairing of irregular meshes using diffusion and curvature flow" [Desbrun, Meyer, Schröder, Barr 1999]](papers/desbrun1999.pdf) |
-| Week Five | ["Laplacian surface editing" [Sorkine-Hornung et al. 2004]](papers/sorkine2004.pdf) |
-| Week Six | ["As-rigid-as-possible surface modeling" [Sorkine-Hornung and Alexa 2007]](papers/sorkine2007.pdf) |
-| Week Seven | ["Geodesics in heat: A new approach to computing distance based on heat flow" [Crane, Weischedel, Wardetzky 2013]](papers/crane2017.pdf) |
-| Week Eight | ["Harmonic Coordinates for Character Articulation" [Joshi et al. 2007]](papers/a71-joshi.pdf) |
-| Week Nine | ["Regularized Kelvinlets: Sculpting Brushes based on Fundamental Solutions of Elasticity" [de Goes et al. 2017]](papers/regularized_kelvinlets.pdf) |
-| Week Ten | ["Spectral Conformal Parameterization" [Mullen et al. 2008]](papers/MTAD08.pdf) |
-| Week Eleven | ["Discrete Elastic Rods" [Bergou et al. 2008]](papers/143-rods.pdf)
-| Coming soon... | "As-rigid-as-possible shape manipulation" [Igarashi, Moscovich, Hughes 2005] |
-| Coming soon... | "Deformation transfer for triangle meshes" [Sumner et al. 2004]
-| Coming soon... | "Illustrating smooth surfaces" [Hertzmann and Zorin 2000]
-| Coming soon... | "Point set surfaces" [Alexa et al. 2001]
-| Coming soon... | "Robust Global Registration" [Gelfand et al. 2005]
-| Coming soon... | ["A concise and provably informative multi‐scale signature based on heat diffusion" [Sun et al. 2009]](papers/multi-scale-signature.pdf)
-| Coming soon... | ["Geometric Modeling with Conical Meshes and Developable Surfaces" [Liu et al. 2006]](papers/quadMesh_sig06.pdf)
-| Coming soon... | ["Interactive Control of Avatars Animated with Human Motion Data" [Lee et al. 2002]](papers/avatar.pdf)
-| Coming soon... | ["Least squares conformal maps for automatic texture atlas generation" [Lévy, Petitjean, Ray, Maillot 2002]](papers/levy2002.pdf) |
-| Coming soon... | ["Marching cubes: A high resolution 3D surface construction algorithm" [Lorenson & Cline 1987]](papers/lorenson-and-cline-1987.pdf) |
-| Coming soon...| ["Biharmonic Distance" [Lipman, Rustamov, Funkhouser 2010]](papers/lipman2010.pdf) |
-
 
 
 
