@@ -1,6 +1,7 @@
 # CSC2521: Seminar in Geometry and Animation
 
 Instructed by [Alec Jacobson](http://www.cs.toronto.edu/~jacobson/)  
+TA: [Yun-Chun Chen](https://yunchunchen.github.io//) ycchen@cs.toronto.edu
 Class meets Wednesdays at 3pm-5pm in ES 1042.
 
 This course will take a deep look at a broad collection of seminal papers in
