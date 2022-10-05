@@ -39,6 +39,8 @@ Add any presentation material/reviews/code/etc. to shared Google slide deck (see
 | Week One | None (introduction) |
 | Week Two | ["Surface simplification using quadric error metrics" [Garland & Heckbert 1997]](papers/garland1997.pdf) |
 | Week Three | ["Marching cubes: A high resolution 3D surface construction algorithm" [Lorensen & Cline 1987]](papers/lorenson-and-cline-1987.pdf) |
+| Week Four | ["Dual Contouring of Hermite Data" [Ju et al. 2002]](papers/dual-contouring-of-hermite-data.pdf) |
+| Week Five | ["Regularized Kelvinlets: Sculpting Brushes based on Fundamental Solutions of Elasticity" [De Goes & James 2017]](papers/regularized_kelvinlets.pdf) |
 
 
 
