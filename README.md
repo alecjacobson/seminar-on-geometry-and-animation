@@ -41,6 +41,7 @@ Add any presentation material/reviews/code/etc. to shared Google slide deck (see
 | Week Three | ["Marching cubes: A high resolution 3D surface construction algorithm" [Lorensen & Cline 1987]](papers/lorenson-and-cline-1987.pdf) |
 | Week Four | ["Dual Contouring of Hermite Data" [Ju et al. 2002]](papers/dual-contouring-of-hermite-data.pdf) |
 | Week Five | ["Regularized Kelvinlets: Sculpting Brushes based on Fundamental Solutions of Elasticity" [De Goes & James 2017]](papers/regularized_kelvinlets.pdf) |
+| Week Six | ["Harmonic Coordinates for Character Articulation" [Joshi et al. 2007]](papers/a71-joshi.pdf) |
 
 
 
