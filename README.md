@@ -43,6 +43,7 @@ Add any presentation material/reviews/code/etc. to shared Google slide deck (see
 | Week Five | ["Regularized Kelvinlets: Sculpting Brushes based on Fundamental Solutions of Elasticity" [De Goes & James 2017]](papers/regularized_kelvinlets.pdf) |
 | Week Six | ["Harmonic Coordinates for Character Articulation" [Joshi et al. 2007]](papers/a71-joshi.pdf) |
 | Week Seven | ["Fast Quasi-Harmonic Weights for Geometric Data Interpolation" [Wang & Solomon 2021]](papers/fast-quasi-harmonic-weights-for-geometric-data-interpolation.pdf) |
+| Week Eight | ["Efficient Palette-based Decomposition and Recoloring of Images via RGBXY-space Geometry" [Tan et al. 2018]](papers/efficient-palette-based-decomposition-and-recoloring-of-images-via-rgbxy-space-geometry.pdf) |
 
 
 
