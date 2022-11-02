@@ -36,14 +36,16 @@ Add any presentation material/reviews/code/etc. to shared Google slide deck (see
 
 | Date | Reading |
 |------|-------|
-| Week One | None (introduction) |
-| Week Two | ["Surface simplification using quadric error metrics" [Garland & Heckbert 1997]](papers/garland1997.pdf) |
-| Week Three | ["Marching cubes: A high resolution 3D surface construction algorithm" [Lorensen & Cline 1987]](papers/lorenson-and-cline-1987.pdf) |
-| Week Four | ["Dual Contouring of Hermite Data" [Ju et al. 2002]](papers/dual-contouring-of-hermite-data.pdf) |
-| Week Five | ["Regularized Kelvinlets: Sculpting Brushes based on Fundamental Solutions of Elasticity" [De Goes & James 2017]](papers/regularized_kelvinlets.pdf) |
-| Week Six | ["Harmonic Coordinates for Character Articulation" [Joshi et al. 2007]](papers/a71-joshi.pdf) |
-| Week Seven | ["Fast Quasi-Harmonic Weights for Geometric Data Interpolation" [Wang & Solomon 2021]](papers/fast-quasi-harmonic-weights-for-geometric-data-interpolation.pdf) |
-| Week Eight | ["Efficient Palette-based Decomposition and Recoloring of Images via RGBXY-space Geometry" [Tan et al. 2018]](papers/efficient-palette-based-decomposition-and-recoloring-of-images-via-rgbxy-space-geometry.pdf) |
+| Week 1 | None (introduction) |
+| Week 2 | ["Surface simplification using quadric error metrics" [Garland & Heckbert 1997]](papers/garland1997.pdf) |
+| Week 3 | ["Marching cubes: A high resolution 3D surface construction algorithm" [Lorensen & Cline 1987]](papers/lorenson-and-cline-1987.pdf) |
+| Week 4 | ["Dual Contouring of Hermite Data" [Ju et al. 2002]](papers/dual-contouring-of-hermite-data.pdf) |
+| Week 5 | ["Regularized Kelvinlets: Sculpting Brushes based on Fundamental Solutions of Elasticity" [De Goes & James 2017]](papers/regularized_kelvinlets.pdf) |
+| Week 6 | ["Harmonic Coordinates for Character Articulation" [Joshi et al. 2007]](papers/a71-joshi.pdf) |
+| Week 7 | ["Fast Quasi-Harmonic Weights for Geometric Data Interpolation" [Wang & Solomon 2021]](papers/fast-quasi-harmonic-weights-for-geometric-data-interpolation.pdf) |
+| Week 8 | ["Efficient Palette-based Decomposition and Recoloring of Images via RGBXY-space Geometry" [Tan et al. 2018]](papers/efficient-palette-based-decomposition-and-recoloring-of-images-via-rgbxy-space-geometry.pdf) |
+| Week 9 | FAS reading week |
+| Week 10 | ["Untangling Cloth" [Baraff et al. 2003]](papers/untangling-cloth.pdf) |
 
 
 
