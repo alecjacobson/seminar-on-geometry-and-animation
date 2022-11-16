@@ -46,6 +46,7 @@ Add any presentation material/reviews/code/etc. to shared Google slide deck (see
 | Week 8 | ["Efficient Palette-based Decomposition and Recoloring of Images via RGBXY-space Geometry" [Tan et al. 2018]](papers/efficient-palette-based-decomposition-and-recoloring-of-images-via-rgbxy-space-geometry.pdf) |
 | Week 9 | FAS reading week |
 | Week 10 | ["Untangling Cloth" [Baraff et al. 2003]](papers/untangling-cloth.pdf) |
+| Week 11 | ["The Heat Method for Distance Computation" [Crane et al. 2017]](papers/the-heat-method-for-distance-computation.pdf) |
 
 
 
