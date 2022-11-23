@@ -47,6 +47,7 @@ Add any presentation material/reviews/code/etc. to shared Google slide deck (see
 | Week 9 | FAS reading week |
 | Week 10 | ["Untangling Cloth" [Baraff et al. 2003]](papers/untangling-cloth.pdf) |
 | Week 11 | ["The Heat Method for Distance Computation" [Crane et al. 2017]](papers/the-heat-method-for-distance-computation.pdf) |
+| Week 12 | ["Bijective Parameterization with Free Boundaries" [Smith et al. 2015]](papers/bijective-parameterization-wtih-face-boundaries.pdf) |
 
 
 
